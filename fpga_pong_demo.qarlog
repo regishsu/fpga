@@ -1,0 +1,21 @@
+Quartus Prime Archive log --	/home/regis/projects/fpga/pong_demo_restored/fpga_pong_demo.qarlog
+
+Archive:	/home/regis/projects/fpga/pong_demo_restored/fpga_pong_demo.qar
+Date:		Mon Mar  1 10:57:23 2021
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/home/regis/projects/fpga/pong_demo_restored/assignment_defaults.qdf
+/home/regis/projects/fpga/pong_demo_restored/clock_gen.ppf
+/home/regis/projects/fpga/pong_demo_restored/clock_gen.qip
+/home/regis/projects/fpga/pong_demo_restored/clock_gen.v
+/home/regis/projects/fpga/pong_demo_restored/clock_gen_bb.v
+/home/regis/projects/fpga/pong_demo_restored/debounce.sv
+/home/regis/projects/fpga/pong_demo_restored/display_timings_480p.sv
+/home/regis/projects/fpga/pong_demo_restored/pong.qpf
+/home/regis/projects/fpga/pong_demo_restored/pong.qsf
+/home/regis/projects/fpga/pong_demo_restored/top_pong.sv
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
